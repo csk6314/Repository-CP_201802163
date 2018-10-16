@@ -12,11 +12,11 @@ public class CP2_Git_Calc {
 
 class Calc {
 	public double add(double a, double b) {
-		return a+b;
+		return -1;
 	}
 	
-	public int sub(double a, double b) {
-		return -1;
+	public double sub(double a, double b) {
+		return a-b;
 	}
 	
 	public int mul(double a, double b) {
